@@ -1,0 +1,1 @@
+export const COOKIE = "jira_clone";
